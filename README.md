@@ -1,5 +1,5 @@
 # Kaggle-Projects
-This repository shows my Kaggle projects in which different Machine Learning algorithms had been implemented.
+This repository shows my Kaggle projects in which different Machine Learning algorithms have been implemented.
 
 ## Projects:
 

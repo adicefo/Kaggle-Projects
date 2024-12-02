@@ -18,6 +18,7 @@ This repository shows my Kaggle projects in which different Machine Learning alg
    - <b>CNN(convolutional neural networks)</b> has been used
    - Multi classification problem
    - [Notebook Link](https://www.kaggle.com/code/adiefo/brain-mri-classification-cnn)
+
      <img src=".\images\train_val_acc_github2.jpg" width="500px" height="250px">
 
 3. **[California House Price](https://www.kaggle.com/datasets/shibumohapatra/house-price)**

@@ -10,6 +10,7 @@ This repository shows my Kaggle projects in which different Machine Learning alg
    - Data visulaization and preprocessing has been done before defining model.
    - Binary classification algorithm
    - [Notebook Link](https://www.kaggle.com/code/adiefo/brain-stroke-simple-ann)
+  
      <img src=".\images\train_val_acc_github.jpg" width="500px" height="250px">
 
 2. **[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)**
@@ -26,4 +27,5 @@ This repository shows my Kaggle projects in which different Machine Learning alg
    - Using <b>supervised machine learning</b> algorithm to predict the final price of house in California
    - <b>Linear Regression</b> algorithm implemented in two different approaches
    - [Notebook Link](https://www.kaggle.com/code/adiefo/california-house-linear-regression)
+   
      <img src=".\images\linear_regression_github.jpg" width="500px" height="250px">
